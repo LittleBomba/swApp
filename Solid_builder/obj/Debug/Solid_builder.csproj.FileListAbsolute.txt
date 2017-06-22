@@ -1,0 +1,9 @@
+D:\Project\Solid_builder\Solid_builder\bin\Debug\Solid_builder.exe.config
+D:\Project\Solid_builder\Solid_builder\bin\Debug\Solid_builder.exe
+D:\Project\Solid_builder\Solid_builder\bin\Debug\Solid_builder.pdb
+D:\Project\Solid_builder\Solid_builder\obj\Debug\Solid_builder.csprojResolveAssemblyReference.cache
+D:\Project\Solid_builder\Solid_builder\obj\Debug\Solid_builder.Form1.resources
+D:\Project\Solid_builder\Solid_builder\obj\Debug\Solid_builder.Properties.Resources.resources
+D:\Project\Solid_builder\Solid_builder\obj\Debug\Solid_builder.csproj.GenerateResource.Cache
+D:\Project\Solid_builder\Solid_builder\obj\Debug\Solid_builder.exe
+D:\Project\Solid_builder\Solid_builder\obj\Debug\Solid_builder.pdb
